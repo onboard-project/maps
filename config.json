@@ -1,0 +1,24 @@
+{
+    "options": {
+        "paths": {
+            "root": "Z:\\Coding\\Repositories\\Python\\onboard-maps\\node_modules\\tileserver-gl\\node_modules\\tileserver-gl-styles",
+            "fonts": "fonts",
+            "styles": "styles",
+            "mbtiles": "Z:\\Coding\\Repositories\\Python\\onboard-maps",
+            "pmtiles": "Z:\\Coding\\Repositories\\Python\\onboard-maps"
+        }
+    },
+    "styles": {
+        "light": {
+            "style": "Z:\\Coding\\Repositories\\Python\\onboard-maps\\style_light.json"
+        },
+        "dark": {
+            "style": "Z:\\Coding\\Repositories\\Python\\onboard-maps\\style_dark.json"
+        }
+    },
+    "data": {
+        "pmtiles": {
+            "pmtiles": "my_area.pmtiles"
+        }
+    }
+}
