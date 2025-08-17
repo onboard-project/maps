@@ -1,0 +1,7 @@
+node_modules
+my_area.pmtiles
+tileserver-gl.cmd
+tileserver-gl
+tileserver-gl.ps1
+.venv
+.idea
