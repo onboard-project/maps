@@ -88,4 +88,4 @@ We welcome improvements to our map generation process or new styling suggestions
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPL v3.0 License](LICENSE.md).
